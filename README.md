@@ -1,4 +1,4 @@
-Calorie Burnt Prediction streamlit WebApp link- 
+Calorie Burnt Prediction streamlit WebApp link- https://calorie-burnt-prediction-8afamw2rqbvh2sd88bl9e8.streamlit.app/
 
 # 🚀 How to Add and Run a Streamlit App
 
